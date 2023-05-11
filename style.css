@@ -1,0 +1,50 @@
+body {
+
+    background-image: url(img/fondo.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+   background-attachment: fixed;
+
+
+
+}
+
+.contenedor {
+
+    border: 15px solid beige
+
+
+
+
+
+}
+
+.gif{
+
+width: 250px;
+height: 350;
+border-radius: 25px;
+
+
+
+}
+
+.imagen {
+    margin: 250px 0px 0px 350pxs;
+    width: 250px;
+
+
+
+
+}
+
+.jordangif{
+
+margin: 250px 0px 0px 350pxs;
+width: 250px;
+
+
+}
+
+
